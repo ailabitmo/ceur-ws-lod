@@ -16,6 +16,27 @@ The goal is to extract information from the textual content of the papers (in PD
 
 The source code is available in [ceur-ws-pdfs](https://github.com/ailabitmo/ceur-ws-lod/tree/master/ceur-ws-pdfs) folder.
 
+## How to cite
+
+If you want to (re)use our work in the next challenge or our project, feel free to do that, it's open source after all :) But please cite our paper:
+
+```
+﻿@Inbook{Kolchin2015,
+  author="Kolchin, Maxim and Cherny, Eugene and Kozlov, Fedor and Shipilo, Alexander and Kovriguina, Liubov",
+  editor="Gandon, Fabien and Cabrio, Elena and Stankovic, Milan and Zimmermann, Antoine",
+  chapter="CEUR-WS-LOD: Conversion of CEUR-WS Workshops to Linked Data",
+  title="Semantic Web Evaluation Challenges: Second SemWebEval Challenge at ESWC 2015, Portoro{\v{z}}, Slovenia, May 31 - June 4, 2015, Revised Selected Papers",
+  year="2015",
+  series = {Communications in Computer and Information Science},
+  volume = {568},
+  publisher="Springer International Publishing",
+  pages="142--152",
+  isbn="978-3-319-25518-7",
+  doi="10.1007/978-3-319-25518-7_12",
+  url="http://dx.doi.org/10.1007/978-3-319-25518-7_12"
+}
+```
+
 ## License
 
 The source code and all data is licensed under the [MIT License](https://github.com/ailabitmo/ceur-ws-lod/blob/master/LICENSE).
